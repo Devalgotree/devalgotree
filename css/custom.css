@@ -1,0 +1,15 @@
+@media only screen and (max-width: 500px) {
+    .logo{
+        width: 27% !important;
+    }
+    .img_slide{
+        width: 100% !important;
+    }
+  }
+
+.logo{
+    width: 27%;
+}
+.img_slide{
+    width: 60%;
+}
